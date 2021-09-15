@@ -1,4 +1,4 @@
-# library(cmdstanr) # Stan interface
+library(cmdstanr) # Stan interface
 library(dtplyr) # Data table speed with dplyr syntax
 library(dummies) # Easy creation of dummy variables
 library(furrr) # For parallelised functional programming
