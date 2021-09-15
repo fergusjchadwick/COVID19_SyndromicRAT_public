@@ -1,6 +1,6 @@
-# COVID19_SyndromicRATDiagnosis
+# COVID19_SyndromicRATDiagnosis_public
 
-This repository contains the code necessary to reproduce the analysis in our paper "Combining Rapid Antigen Testing and Syndromic Data Improves Sensitivity and Specificity in COVID-19 Detection".
+This repository contains the code necessary to reproduce the analysis in our paper "Combining Rapid Antigen Testing and Syndromic Surveillance for COVID-19: a community-based prospective diagnostic study".
 Please note, the code was developed for this analysis; we cannot recommend it for more general usage! 
 
 The code is divided into 5 folders:
