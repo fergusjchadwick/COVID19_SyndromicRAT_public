@@ -1,7 +1,7 @@
 # COVID19_SyndromicRATDiagnosis_public
 
 This repository contains the code necessary to reproduce the analysis in our paper "Combining Rapid Antigen Testing and Syndromic Surveillance Improves Sensitivity and Specificity of COVID-19 Detection: a Community-Based Prospective Diagnostic Study".
-Please note, the code was developed for this analysis; we cannot recommend it for more general usage! 
+Please note: 1) the code was developed for this analysis - we cannot recommend it for more general usage! and 2) to make the repo more easily downloadable we have not included full Stan output for every model tested - these can be downloaded from [here](https://www.dropbox.com/sh/jx6tngm4ul7gcyk/AAA88NIJ-jLzaaLXZWO8t_3oa?dl=0) and added to the 0300_ModelSelection/Output folder, or generated fresh from the provided code.
 
 The code is divided into 5 folders:
 
